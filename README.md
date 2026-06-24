@@ -1,12 +1,12 @@
 # The 15-Minute City in Buenos Aires
 
-Final project for the course *Ciencia de Datos aplicada al Transporte* (Data Science Applied to Transport) at the University of Buenos Aires (FIUBA). It measures how much of Buenos Aires works as a "15-minute city" — whether people can reach essential services within a 15-minute walk — and whether that access depends on poverty or on urban density.
+Final project for the course *Ciencia de Datos aplicada al Transporte* (Data Science Applied to Transport) at the University of Buenos Aires (FIUBA). It measures how much of Buenos Aires works as a "15-minute city", whether people can reach essential services within a 15-minute walk, and whether that access depends on poverty or on urban density.
 
 ## The data
 
-- **Street network** — the road graph of Buenos Aires (from OpenStreetMap), used to measure real walking distances along the streets.
-- **Census tracts (2010)** — population and poverty (unmet basic needs) per small area, from the national census.
-- **Essential services** — hospitals, clinics, pharmacies, schools, supermarkets and parks, downloaded from OpenStreetMap when the notebook runs (so an internet connection is needed for that step).
+- Street network — the road graph of Buenos Aires (from OpenStreetMap), used to measure real walking distances along the streets.
+- Census tracts (2010) — population and poverty (unmet basic needs) per small area, from the national census.
+- Essential services — hospitals, clinics, pharmacies, schools, supermarkets and parks, downloaded from OpenStreetMap when the notebook runs (so an internet connection is needed for that step).
 
 ## Install and run
 
